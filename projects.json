@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Project One (replace me)",
+    "description": "A short description of project one. Replace this entry with your real project details.",
+    "tech": ["JavaScript", "HTML", "CSS"],
+    "link": "https://example.com/project-one",
+    "image": ""
+  },
+  {
+    "title": "Project Two (replace me)",
+    "description": "Another project. Add your repo links, live demos, or screenshots.",
+    "tech": ["Python", "Flask"],
+    "link": "",
+    "image": ""
+  }
+]

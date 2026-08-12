@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Portfolio</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <h1>Your Name</h1>
+      <p class="tag">Developer • Designer • Problem-solver</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section id="about">
+      <h2>About</h2>
+      <p>Edit <code>projects.json</code> with your project entries to populate the Projects section.</p>
+    </section>
+
+    <section id="projects">
+      <h2>Projects</h2>
+      <div id="projects-grid" class="grid"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">Built with ❤️ — replace this with your contact or social links.</div>
+  </footer>
+
+  <script>
+    async function loadProjects() {
+      try {
+        const res = await fetch('projects.json', {cache: 'no-store'});
+        if (!res.ok) throw new Error('projects.json not found');
+        const data = await res.json();
+        const grid = document.getElementById('projects-grid');
+        if (!Array.isArray(data) || data.length === 0) {
+          grid.innerHTML = '<p>No projects found. Edit <code>projects.json</code> to add projects.</p>';
+          return;
+        }
+        grid.innerHTML = data.map(p => `
+          <article class="card">
+            <h3>${escapeHtml(p.title)}</h3>
+            ${p.image ? `<img src="${escapeHtml(p.image)}" alt="${escapeHtml(p.title)} screenshot"/>` : ''}
+            <p class="desc">${escapeHtml(p.description)}</p>
+            <p class="meta">${(p.tech||[]).map(escapeHtml).join(' • ')}</p>
+            ${p.link ? `<p><a href="${escapeHtml(p.link)}" target="_blank" rel="noopener">View project</a></p>` : ''}
+          </article>
+        `).join('');
+      } catch (err) {
+        document.getElementById('projects-grid').innerHTML = '<p>Could not load projects.json — check that the file exists and is valid JSON.</p>';
+        console.error(err);
+      }
+    }
+    function escapeHtml(s){
+      if (!s) return '';
+      return String(s)
+        .replaceAll('&','&amp;')
+        .replaceAll('<','&lt;')
+        .replaceAll('>','&gt;')
+        .replaceAll('"','&quot;')
+        .replaceAll("'",'&#39;');
+    }
+    loadProjects();
+  </script>
+</body>
+</html>
