@@ -1,27 +1,302 @@
-Portfolio site
+# 👋 Hi, I'm Sham Russel O. Legaspi
 
-What I added
-- index.html — simple, responsive portfolio template that loads projects from projects.json
-- styles.css — minimal styles for layout and cards
-- projects.json — a JSON array you can edit to list your projects
-- README.md — this file
+### Junior Web Developer | BS Information Technology Graduate
 
-How to edit your projects
-- Open projects.json and replace the placeholder entries with your real projects.
-  Each project is an object with: title, description, tech (array), link (optional), image (optional URL).
+I'm an Information Technology graduate from **Pampanga State Agricultural University** with a strong interest in **Web Development, Software Development, Databases, and Machine Learning**.
 
-Preview locally
-- Run a simple static server from this repo root. Example (requires Python):
-  - Python 3: python -m http.server 8000
-  Then visit http://localhost:8000
+I enjoy building practical applications and solving problems through programming. During my studies, I developed web-based and desktop applications using technologies such as **HTML, CSS, JavaScript, PHP, MySQL, Java, and Python**.
 
-Deploy
-- Host on GitHub Pages by enabling Pages in repository settings (use main branch / root)
-- Or deploy to any static host (Netlify, Vercel, Surge, etc.)
+I'm currently looking for opportunities as a **Junior Web Developer / Software Developer** where I can apply my technical knowledge, work on real-world projects, and continue growing as a developer.
 
-If push to main failed
-- If this commit couldn't be applied because the branch is protected or changed, tell me and I will create a branch and open a pull request instead.
+---
 
-Questions or want customization?
-- Tell me the projects you want listed (title, description, tech, link, image) and I will update projects.json and improve the layout or add sections (About, Contact, Resume link).
+## 👨‍💻 About Me
 
+* 🎓 **Bachelor of Science in Information Technology**
+* 🏫 Pampanga State Agricultural University
+* 🏆 **Dean's List Recipient — 7 Semesters**
+* 💻 Interested in Web Development and Software Development
+* 🗄️ Interested in Database Management and Backend Development
+* 🤖 Academic experience with Machine Learning and Data Analysis
+* 📊 Undergraduate thesis focused on **Career Path Prediction using Support Vector Machine**
+* 💼 Former **Ads Integrity Analyst at Appen**
+* 📍 Angeles City, Pampanga, Philippines
+* 📧 **Email:** [shamrussel27@gmail.com](mailto:shamrussel27@gmail.com)
+
+---
+
+# 🛠️ Technical Skills
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+
+### 💻 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### 🔧 Tools & Technologies
+
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge\&logo=apache\&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge\&logo=apache\&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge\&logo=apache-netbeans-ide\&logoColor=white)
+
+### 📚 Other Skills
+
+* Database Management
+* CRUD Operations
+* User Authentication
+* Form Processing
+* Data Analysis
+* Machine Learning Fundamentals
+* System Troubleshooting
+* Problem Solving
+* Technical Documentation
+* Quality Assurance and Data Evaluation
+
+---
+
+# 🚀 Featured Projects
+
+## 🏨 Hotel Table Reservation Website
+
+**HTML • CSS • JavaScript**
+
+A web-based reservation website developed as an academic project.
+
+### Features & Contributions
+
+* Designed the website structure using HTML.
+* Created the user interface using HTML and CSS.
+* Implemented interactive functionality using JavaScript.
+* Developed the reservation interface and user interaction flow.
+* Tested the website and resolved functionality issues during development.
+
+**Project Type:** Academic Project
+**Status:** Completed
+
+> **Note:** The original source code is currently stored on an old computer and is not available in this GitHub repository.
+
+---
+
+## 🍕 Pizza Ordering System
+
+**Java • Java Swing • NetBeans**
+
+A desktop-based pizza ordering application developed as an academic programming project.
+
+### Features & Contributions
+
+* Designed the graphical user interface using Java Swing.
+* Implemented pizza and order selection functionality.
+* Developed programming logic for processing orders.
+* Applied object-oriented programming concepts.
+* Tested and debugged the application during development.
+
+**Project Type:** Academic Project
+**Status:** Completed
+
+> **Note:** The original source code is currently stored on an old computer and is not available in this GitHub repository.
+
+---
+
+## 🤖 Career Path Prediction System Using Support Vector Machine
+
+**Python • Machine Learning • Support Vector Machine • Data Analysis**
+
+My undergraduate thesis explored the use of machine learning to predict potential career paths for Grade 12 students.
+
+### Project Objective
+
+The project investigated how student-related information could be analyzed using a **Support Vector Machine (SVM)** model to identify patterns and generate potential career-path predictions.
+
+### My Contributions
+
+* Prepared and organized student-related data.
+* Worked with data preprocessing and analysis.
+* Applied Support Vector Machine concepts to the prediction process.
+* Participated in model development and testing.
+* Evaluated the results generated by the prediction model.
+* Documented the methodology, findings, and results of the research.
+
+### What I Learned
+
+This project strengthened my understanding of:
+
+* Python programming
+* Machine Learning fundamentals
+* Data preprocessing
+* Data analysis
+* Predictive modeling
+* Model evaluation
+* Problem-solving
+* Research and technical documentation
+
+**Project Type:** Undergraduate Thesis
+**Status:** Completed
+
+---
+
+## 🗄️ Database-Driven Web Applications
+
+**PHP • MySQL • HTML • CSS • JavaScript • XAMPP**
+
+Throughout my BSIT studies, I developed several websites and database-driven applications for academic requirements.
+
+### Common Features Implemented
+
+* User registration
+* Login and logout
+* User authentication
+* Form processing
+* CRUD operations
+* Database connectivity
+* Data insertion and retrieval
+* Record management
+* Basic system administration
+* Client-side interaction
+* Error troubleshooting
+
+I used **XAMPP and Apache** to develop and test PHP-based applications in a local development environment.
+
+---
+
+# 💼 Professional Experience
+
+## Ads Integrity Analyst
+
+**Appen | Remote**
+**July 2025 – December 2025**
+
+As an Ads Integrity Analyst, I worked with digital advertisements and platform systems while following established technical guidelines and quality standards.
+
+### Responsibilities & Experience
+
+* Evaluated online advertisements according to platform policies and quality standards.
+* Analyzed digital information while maintaining accuracy and attention to detail.
+* Conducted data analysis to support project insights and recommendations.
+* Used internal systems and digital tools to evaluate and document information.
+* Identified inconsistencies and potential issues during the review process.
+* Followed established workflows and technical requirements.
+* Developed strong analytical and problem-solving skills.
+* Worked independently in a remote professional environment while managing deadlines and maintaining productivity.
+
+### Skills Developed
+
+* Analytical Thinking
+* Attention to Detail
+* Data Evaluation
+* Quality Assurance
+* Problem Solving
+* Time Management
+* Technical Workflow Management
+* Independent Work
+
+---
+
+# 🎓 Education
+
+## Bachelor of Science in Information Technology
+
+**Pampanga State Agricultural University**
+Magalang, Pampanga, Philippines
+**June 2026**
+
+### Academic Achievement
+
+🏆 **Dean's List — 7 Semesters**
+
+* 1st Semester — 1st Year
+* 2nd Semester — 1st Year
+* 1st Semester — 2nd Year
+* 2nd Semester — 2nd Year
+* 1st Semester — 3rd Year
+* 2nd Semester — 3rd Year
+* 1st Semester — 4th Year
+
+---
+
+## Senior High School Diploma
+
+**Northville 15 Integrated School**
+Angeles City, Pampanga, Philippines
+**July 2022**
+
+🏆 **Graduated with High Honors**
+
+---
+
+# 📜 Certifications
+
+### Simplilearn
+
+* Introduction to Data Analytics
+* Introduction to SQL
+* Introduction to MongoDB
+
+---
+
+# 🎯 Current Career Goal
+
+I am currently seeking an opportunity as a **Junior Web Developer, Web Developer, or Software Developer**.
+
+I am particularly interested in opportunities where I can:
+
+* Build and maintain web applications
+* Work with frontend and backend technologies
+* Develop database-driven systems
+* Learn modern development frameworks
+* Collaborate with experienced developers
+* Solve real-world technical problems
+* Improve my programming and software development skills
+
+---
+
+# 📚 Currently Improving
+
+As I continue developing my skills, I am focusing on strengthening my knowledge in:
+
+* Modern JavaScript
+* Responsive Web Development
+* PHP Backend Development
+* MySQL Database Design
+* REST APIs
+* Git & GitHub
+* Software Development Practices
+* Modern Web Development Frameworks
+
+---
+
+# 📊 GitHub Stats
+
+![Sham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=default)
+
+> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
+
+---
+
+# 📫 Contact Me
+
+📧 **Email:** [shamrussel27@gmail.com](mailto:shamrussel27@gmail.com)
+
+📱 **Phone:** 0992-583-1301
+
+📍 **Location:** Angeles City, Pampanga, Philippines
+
+---
+
+### 💡 "Keep learning, keep building, and keep improving."
+
+Thanks for visiting my profile! 👋
