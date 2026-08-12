@@ -14,7 +14,7 @@ I'm currently looking for opportunities as a **Junior Web Developer / Software D
 
 * 🎓 **Bachelor of Science in Information Technology**
 * 🏫 Pampanga State Agricultural University
-* 🏆 **Dean's List Recipient — 7 Semesters**
+* 🏆 **Dean's List Recipient —  1st-4th Year**
 * 💻 Interested in Web Development and Software Development
 * 🗄️ Interested in Database Management and Backend Development
 * 🤖 Academic experience with Machine Learning and Data Analysis
@@ -62,7 +62,6 @@ I'm currently looking for opportunities as a **Junior Web Developer / Software D
 * System Troubleshooting
 * Problem Solving
 * Technical Documentation
-* Quality Assurance and Data Evaluation
 
 ---
 
@@ -274,16 +273,6 @@ As I continue developing my skills, I am focusing on strengthening my knowledge 
 * Git & GitHub
 * Software Development Practices
 * Modern Web Development Frameworks
-
----
-
-# 📊 GitHub Stats
-
-![Sham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=default)
-
-> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
 
 ---
 
