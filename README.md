@@ -213,7 +213,7 @@ Magalang, Pampanga, Philippines
 
 ### Academic Achievement
 
-🏆 **Dean's List — 7 Semesters**
+🏆 **Dean's List — 8 Semesters**
 
 * 1st Semester — 1st Year
 * 2nd Semester — 1st Year
@@ -222,6 +222,7 @@ Magalang, Pampanga, Philippines
 * 1st Semester — 3rd Year
 * 2nd Semester — 3rd Year
 * 1st Semester — 4th Year
+* 2nd Semester - 4th Year
 
 ---
 
