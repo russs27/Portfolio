@@ -12,7 +12,7 @@ I'm currently looking for opportunities as a **Junior Web Developer / Software D
 
 ## 👨‍💻 About Me
 
-* 🎓 **Bachelor of Science in Information Technology**
+* 🎓 **BS Information Technology — Cum Laude**
 * 🏫 Pampanga State Agricultural University
 * 🏆 **Dean's List Recipient —  1st-4th Year**
 * 💻 Interested in Web Development and Software Development
